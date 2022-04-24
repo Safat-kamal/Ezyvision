@@ -1,7 +1,7 @@
 
 ## EZYVISION
  
-It is multi page Single Vendor Application ,It is a Fashin Store which gives you the collections of latest trending  fashionable clothing Products ,Built-In : 
+It is multi page Single Vendor Application ,It is a Fashion Store which gives you the collections of latest trending  fashionable clothing Products ,Built-In : 
  
 
 
